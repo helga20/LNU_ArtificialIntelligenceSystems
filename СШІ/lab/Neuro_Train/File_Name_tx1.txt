@@ -1,0 +1,16 @@
+1 o
+2 Ol
+3 S
+4 v
+1 o_damaged
+2 Ol_damaged
+3 S_damaged 
+4 v_damaged 
+1 o_scaled
+2 Ol_scaled 
+3 S_scaled 
+4 v_scaled 
+1 o_shifted
+2 Ol_shifted
+3 S_shifted
+4 v_shifted

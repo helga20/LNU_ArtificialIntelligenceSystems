@@ -1,0 +1,4 @@
+1 o_small 
+2 O_big
+3 S
+4 v
